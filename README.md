@@ -1,4 +1,7 @@
-# api documentation for  [reactable (v0.14.1)](https://github.com/glittershark/reactable)  [![npm package](https://img.shields.io/npm/v/npmdoc-reactable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reactable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reactable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reactable)
+# npmdoc-reactable
+
+#### api documentation for  [reactable (v0.14.1)](https://github.com/glittershark/reactable)  [![npm package](https://img.shields.io/npm/v/npmdoc-reactable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reactable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reactable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reactable)
+
 #### Fast, flexible, simple data tables in React
 
 [![NPM](https://nodei.co/npm/reactable.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/reactable)
