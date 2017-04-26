@@ -1,6 +1,6 @@
 # npmdoc-reactable
 
-#### api documentation for  [reactable (v0.14.1)](https://github.com/glittershark/reactable)  [![npm package](https://img.shields.io/npm/v/npmdoc-reactable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reactable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reactable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reactable)
+#### basic api documentation for  [reactable (v0.14.1)](https://github.com/glittershark/reactable)  [![npm package](https://img.shields.io/npm/v/npmdoc-reactable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reactable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reactable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reactable)
 
 #### Fast, flexible, simple data tables in React
 
@@ -82,7 +82,8 @@
         "build": "./node_modules/grunt-cli/bin/grunt build",
         "test": "./node_modules/grunt-cli/bin/grunt ci"
     },
-    "version": "0.14.1"
+    "version": "0.14.1",
+    "bin": {}
 }
 ```
 
